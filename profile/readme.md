@@ -2,7 +2,7 @@
 
 Katzen-Neko
 
-─────────────────────────────────────────────────────────────────────────────────────────
+─────────────────────────────────────────────────────────────────────────────────────
 
 Right now, our small team is building amazing software together, and there are excellent opportunities to join, if you're looking to get involved.
   
@@ -13,7 +13,7 @@ Right now, our small team is building amazing software together, and there are e
   Apply for project credits for open source projects
 
 
-─────────────────────────────────────────────────────────────────────────────────────────
+─────────────────────────────────────────────────────────────────────────────────────
 
 Use repository issues and not info@katzen-neko.com to ask questions specific to an individual repository.
 Visit katzen-neko.com to learn more!
