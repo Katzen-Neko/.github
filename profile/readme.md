@@ -1,59 +1,44 @@
 <img width="1600" height="896" alt="Katzen-Neko" src="https://github.com/user-attachments/assets/ce2fb8f6-e507-4f6f-9d68-50602653d3da" />
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Katzen-Neko Readme</title>
-    <style>
-        body {
-            background-color: #5d1a2c; /* Approximate background color */
-            color: #d4af37; /* Approximate text color (gold/tan) */
-            font-family: sans-serif;
-            margin: 0;
-            padding: 40px;
-            position: relative;
-            min-height: 100vh;
-        }
-        .container {
-            max-width: 1000px;
-            margin: 0 auto;
-        }
-        .header {
-            text-align: right;
-            font-size: 1.2em;
-            margin-bottom: 50px;
-        }
-        .main-title h1 {
-            font-size: 4em;
-            margin: 0;
-            line-height: 1.2;
-        }
-        .tagline {
-            position: absolute;
-            bottom: 40px;
-            left: 40px;
-            font-size: 0.9em;
-            max-width: 500px;
-            line-height: 1.4;
-        }
-        /* Note: The decorative plant graphic cannot be replicated with just basic HTML/CSS text */
-    </style>
-</head>
-<body>
-    <div class="container">
-        <div class="header">
-            Katzen-Neko
-        </div>
-        <div class="main-title">
-            <h1>Coding</h1>
-            <h1>For</h1>
-            <h1>The Fun of it</h1>
-        </div>
-        <div class="tagline">
-            We are a small team driven purely by passion. Building cool, interesting software is what gets us out of bed every morning.
-        </div>
-    </div>
-</body>
-</html>
+# Katzen-Neko
+
+## Coding For The Fun of it
+
+**We are a small team driven purely by passion. Building cool, interesting software is what gets us out of bed every morning.**
+
+---
+
+## 🚀 Description
+
+Katzen-Neko is a passion-driven collective of software enthusiasts. We focus on developing unique, open-source projects and experimental software solutions purely for the joy of creation. Our work spans various domains, always prioritizing innovation and the fun factor in coding.
+
+---
+
+## ✨ Features
+
+*   **Passion-Driven Development:** Every project is built with enthusiasm and dedication.
+*   **Open Source First:** We believe in contributing back to the developer community.
+*   **Innovative Solutions:** Focused on building "cool, interesting software" that solves problems creatively.
+*   **Community Focused:** Welcoming contributions and feedback from developers worldwide.
+
+---
+
+## 💻 Usage & Installation
+
+As a collective of various projects, installation steps vary by repository. Generally, you can expect standard procedures:
+
+### Prerequisites
+
+*   A modern version of **Git**.
+*   Appropriate runtime environments (e.g., Node.js, Python, Java) depending on the specific project.
+
+### Cloning a Repository
+
+To get started with any of our public projects:
+
+```bash
+git clone github.com[project-name].git
+cd [project-name]
+# Follow specific project instructions in its local README file
+
